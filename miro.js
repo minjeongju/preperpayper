@@ -9,7 +9,7 @@ function preload() {
     images.push(loadImage("04.png"));
     images.push(loadImage("05.png"));
     
-    bgImg = loadImage("https://media.discordapp.net/attachments/1214236586968092793/1352270700525781033/sacsc.png?ex=67dd67ba&is=67dc163a&hm=0f5afb3414d530d1e47b49cb95333cbc38a02f4c3901e7836f58247e63299feb&=&format=webp&quality=lossless&width=1100&height=600");
+    bgImg = loadImage("https://cdn.discordapp.com/attachments/1214236586968092793/1352270700525781033/sacsc.png?ex=67dd67ba&is=67dc163a&hm=0f5afb3414d530d1e47b49cb95333cbc38a02f4c3901e7836f58247e63299feb&format=webp&quality=lossless&width=2112&height=1152");
 }
 
 function setup() {
